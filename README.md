@@ -7,4 +7,4 @@ www.sonejo.net
 Created with FAUST
 http://faust.grame.fr/
 
-Use the Faust Online Compiler to buid binaries.
+Use the Faust Online Compiler to build binaries.
